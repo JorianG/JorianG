@@ -22,7 +22,7 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="45" /> Ce que j'utilise :
 
 ### Logiciels :
-<img title="C" height="50" src="https://assets.stickpng.com/images/62cc1b51150d5de9a3dad5f8.png" >
+<img title="C" height="50" src="./assets/postman.png" >
 
 
 
