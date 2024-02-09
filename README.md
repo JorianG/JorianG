@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**JorianG/JorianG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World&center=true&size=30">
+  </a>
+</h1>
 
-Here are some ideas to get you started:
+###  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/jgouagout/)
+[![Website Badge](https://img.shields.io/badge/-COMMING_SOON-588157?style=flat&logo=Google-Chrome&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&)](mailto:joriangouagout1@gmail.com)
+***
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> A propos de moi :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 Toulouse, **_FR_**   
+- 🎓 Etudiant en BUT Informatique Parcours Dev à l'université Paul Sabatier  
+- ❤️ Passionné de programmation et de nouvelles technologies
+- 📘 Je parle Français, Anglais et un peu Espagnol  
+
+***
+
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="45" /> Ce que j'utilise :
+
+### Logiciels :
+<img title="C" height="50" src="https://assets.stickpng.com/images/62cc1b51150d5de9a3dad5f8.png" >
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorianG)](https://github.com/anuraghazra/github-readme-stats)
