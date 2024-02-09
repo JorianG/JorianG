@@ -24,14 +24,14 @@
 ### Logiciels :
 <div>
 <img title="Postman" height="50" src="./assets/postman.png" >
-<img title="C" height="30" src="./assets/docker.png" >
-<img title="C" height="30" src="./assets/eclipse.png" >
-<img title="C" height="50" src="./assets/figma.png" >
-<img title="C" height="50" src="./assets/git.png" >
-<img title="C" height="50" src="./assets/jetbrain.png" >
-<img title="C" height="50" src="./assets/modelio.png" >
-<img title="C" height="50" src="./assets/vscode.png" >
-<img title="C" height="50" src="./assets/illustrator.png" >
+<img title="Docker" height="30" src="./assets/docker.png" >
+<img title="Eclipse" height="30" src="./assets/eclipse.png" >
+<img title="Figma" height="50" src="./assets/figma.png" >
+<img title="Git" height="50" src="./assets/git.png" >
+<img title="JetBrain" height="50" src="./assets/jetbrain.png" >
+<img title="Modelio" height="50" src="./assets/modelio.png" >
+<img title="VSCode" height="50" src="./assets/vscode.png" >
+<img title="Illustator" height="50" src="./assets/illustrator.png" >
 </div>
 
 
