@@ -24,8 +24,8 @@
 ### Logiciels :
 <div>
 <img title="Postman" height="50" src="./assets/postman.png" >
-<img title="C" height="50" src="./assets/docker.png" >
-<img title="C" height="50" src="./assets/eclipse.png" >
+<img title="C" height="30" src="./assets/docker.png" >
+<img title="C" height="30" src="./assets/eclipse.png" >
 <img title="C" height="50" src="./assets/figma.png" >
 <img title="C" height="50" src="./assets/git.png" >
 <img title="C" height="50" src="./assets/jetbrain.png" >
