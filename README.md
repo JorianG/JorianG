@@ -32,8 +32,22 @@
 <img title="Modelio" height="50" src="./assets/modelio.png" >
 <img title="VSCode" height="50" src="./assets/vscode.png" >
 <img title="Illustator" height="50" src="./assets/illustrator.png" >
+<img title="REST Api" height="50" src="./assets/rest.png" >
 </div>
 
+
+### Je code en :
+<div>
+<img title="Postman" height="50" src="./assets/postman.png" >
+<img title="Docker" height="30" src="./assets/docker.png" >
+<img title="Eclipse" height="30" src="./assets/eclipse.png" >
+<img title="Figma" height="50" src="./assets/figma.png" >
+<img title="Git" height="50" src="./assets/git.png" >
+<img title="JetBrain" height="50" src="./assets/jetbrain.png" >
+<img title="Modelio" height="50" src="./assets/modelio.png" >
+<img title="VSCode" height="50" src="./assets/vscode.png" >
+<img title="Illustator" height="50" src="./assets/illustrator.png" >
+</div>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorianG)](https://github.com/anuraghazra/github-readme-stats)
