@@ -59,4 +59,12 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorianG)](https://github.com/anuraghazra/github-readme-stats)  
 
 <!--START_SECTION:waka-->
+
+```txt
+HTML         1 hr 47 mins    ██████████████░░░░░░░░░░░   56.57 %
+PHP          1 hr 18 mins    ██████████▒░░░░░░░░░░░░░░   41.20 %
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+```
+
 <!--END_SECTION:waka-->
