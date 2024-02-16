@@ -33,6 +33,7 @@
 <img title="Figma" height="50" src="./assets/logiciels/figma.png" >
 <img title="Illustator" height="50" src="./assets/logiciels/illustrator.png" >
 <img title="mysql" height="50" src="./assets/logiciels/mysql.png" >
+<img title="mongo" height="50" src="./assets/logiciels/mongo.png" >
 <img title="REST Api" height="50" src="./assets/logiciels/rest.png" >
 <img title="Endeavour OS" height="50" src="./assets/logiciels/endeavour.png" >
 </div>
