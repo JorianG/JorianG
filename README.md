@@ -54,6 +54,12 @@
 <img title="React" height="50" src="./assets/languages/react.png" >
 <img title="PHP" height="50" src="./assets/languages/php.png" >
 
+### En ce moment j'apprend :
+
+<img title="PHP" height="50" src="./assets/languages/symfony.png" >
+
+
+
 </div>
 
 ***
