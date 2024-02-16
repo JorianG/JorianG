@@ -23,36 +23,36 @@
 
 ### Logiciels :
 <div>
-<img title="Postman" height="50" src="./assets/logiciels/postman.png" >
-<img title="Docker" height="30" src="./assets/logiciels/docker.png" >
-<img title="Git" height="50" src="./assets/logiciels/git.png" >
-<img title="Eclipse" height="30" src="./assets/logiciels/eclipse.png" >
-<img title="VSCode" height="50" src="./assets/logiciels/vscode.png" >
-<img title="JetBrain" height="50" src="./assets/logiciels/jetbrain.png" >
-<img title="Modelio" height="50" src="./assets/logiciels/modelio.png" >
-<img title="Figma" height="50" src="./assets/logiciels/figma.png" >
-<img title="Illustator" height="50" src="./assets/logiciels/illustrator.png" >
-<img title="mysql" height="50" src="./assets/logiciels/mysql.png" >
-<img title="mongo" height="50" src="./assets/logiciels/mongo.png" >
-<img title="REST Api" height="50" src="./assets/logiciels/rest.png" >
-<img title="Endeavour OS" height="50" src="./assets/logiciels/endeavour.png" >
+<a href="https://www.postman.com/"><img title="Postman" height="50" src="./assets/logiciels/postman.png" ></a>
+<a href="https://www.docker.com/"><img title="Docker" height="30" src="./assets/logiciels/docker.png" ></a>
+<a href="https://git-scm.com/"><img title="Git" height="50" src="./assets/logiciels/git.png" ></a>
+<a href="https://www.eclipse.org/"><img title="Eclipse" height="30" src="./assets/logiciels/eclipse.png" ></a>
+<a href="https://code.visualstudio.com/"><img title="VSCode" height="50" src="./assets/logiciels/vscode.png" ></a>
+<a href="https://www.jetbrains.com/fr-fr/"><img title="JetBrain" height="50" src="./assets/logiciels/jetbrain.png" ></a>
+<a href="https://www.modelio.org/index.htm"><img title="Modelio" height="50" src="./assets/logiciels/modelio.png" ></a>
+<a href="https://www.figma.com/fr/"><img title="Figma" height="50" src="./assets/logiciels/figma.png" ></a>
+<a href="https://www.adobe.com/fr/products/illustrator.html"><img title="Illustator" height="50" src="./assets/logiciels/illustrator.png" ></a>
+<a href="https://www.mysql.com/fr/"><img title="mysql" height="50" src="./assets/logiciels/mysql.png" ></a>
+<a href="https://www.mongodb.com/fr-fr"><img title="mongo" height="50" src="./assets/logiciels/mongo.png" ></a>
+<a href="https://www.redhat.com/fr/topics/api/what-is-a-rest-api"><img title="REST Api" height="50" src="./assets/logiciels/rest.png" ></a>
+<a href="https://endeavouros.com/"><img title="Endeavour OS" height="50" src="./assets/logiciels/endeavour.png" ></a>
 </div>
 
 
 ### Je code en :
 <div>
-<img title="Java" height="50" src="./assets/languages/java.png" >
-<img title="Python" height="50" src="./assets/languages/python.png" >
-<img title="Django" height="50" src="./assets/languages/django.png" >
-<img title="C" height="50" src="./assets/languages/c.png" >
-<img title="SQL" height="50" src="./assets/languages/sql.png" >
-<img title="PL-SQL" height="50" src="./assets/languages/pl-sql.png" >
-<img title="HTML5" height="50" src="./assets/languages/html5.webp" >
-<img title="CSS" height="50" src="./assets/languages/css.png" >
-<img title="Bootstrap" height="50" src="./assets/languages/bootstrap.png" >
-<img title="Javascript" height="50" src="./assets/languages/js.png" >
-<img title="React" height="50" src="./assets/languages/react.png" >
-<img title="PHP" height="50" src="./assets/languages/php.png" >
+<a href="https://www.java.com/fr/"><img title="Java" height="50" src="./assets/languages/java.png" ></a>
+<a href="https://www.python.org/"><img title="Python" height="50" src="./assets/languages/python.png" ></a>
+<a href="https://www.djangoproject.com/"><img title="Django" height="50" src="./assets/languages/django.png" ></a>
+<a href="https://fr.wikipedia.org/wiki/C_(langage)"><img title="C" height="50" src="./assets/languages/c.png" ></a>
+<a href="https://fr.wikipedia.org/wiki/Structured_Query_Language"><img title="SQL" height="50" src="./assets/languages/sql.png" ></a>
+<a href="https://www.oracle.com/fr/database/technologies/appdev/plsql.html#:~:text=PL%2FSQL%20est%20un%20langage,dans%20la%20base%20de%20donn%C3%A9es."><img title="PL-SQL" height="50" src="./assets/languages/pl-sql.png" ></a>
+<a href="https://developer.mozilla.org/fr/docs/Web/HTML"><img title="HTML5" height="50" src="./assets/languages/html5.webp" ></a>
+<a href="https://developer.mozilla.org/fr/docs/Web/CSS"><img title="CSS" height="50" src="./assets/languages/css.png" ></a>
+<a href="https://getbootstrap.com/"><img title="Bootstrap" height="50" src="./assets/languages/bootstrap.png" ></a>
+<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript"><img title="Javascript" height="50" src="./assets/languages/js.png" ></a>
+<a href="https://fr.react.dev/"><img title="React" height="50" src="./assets/languages/react.png" ></a>
+<a href="https://www.php.net/"><img title="PHP" height="50" src="./assets/languages/php.png" ></a>
 
 ### En ce moment j'apprend :
 
