@@ -56,7 +56,7 @@
 
 ### En ce moment j'apprend :
 
-<img title="PHP" height="50" src="./assets/languages/symfony.png" >
+<img title="PHP" height="50" src="./assets/languages/symfony.png" href="https://symfony.com/">
 
 
 
