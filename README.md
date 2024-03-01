@@ -9,7 +9,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/jgouagout/)
 [![Website Badge](https://img.shields.io/badge/-COMMING_SOON-588157?style=flat&logo=Google-Chrome&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&)](mailto:joriangouagout1@gmail.com)
-[![FreeCodeCamp Badge](https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png)](https://www.freecodecamp.org/jorian)
+[![FreeCodeCamp Badge](https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=flat&logo=freecodecamp&logoColor=white&)](https://www.freecodecamp.org/jorian)
 ***
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> A propos de moi :
 
