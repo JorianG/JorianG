@@ -72,9 +72,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP    16 mins         █████████████████████████   99.56 %
-Git    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
