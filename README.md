@@ -72,11 +72,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown       4 mins          ████████████▓░░░░░░░░░░░░   51.23 %
-Java           4 mins          ███████████▒░░░░░░░░░░░░░   44.93 %
-Kotlin         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-HTTP Request   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
