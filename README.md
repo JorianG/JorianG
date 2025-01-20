@@ -72,11 +72,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              38 mins         ███████████████▓░░░░░░░░░   62.40 %
-HTTP Request      17 mins         ███████░░░░░░░░░░░░░░░░░░   28.22 %
-Markdown          4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
-Java Properties   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-Properties        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+HTTP Request      17 mins         █████████████▓░░░░░░░░░░░   54.15 %
+Java              14 mins         ███████████░░░░░░░░░░░░░░   43.57 %
+Properties        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Java Properties   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+YAML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
