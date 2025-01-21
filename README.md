@@ -72,11 +72,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTTP Request      17 mins         █████████████▓░░░░░░░░░░░   54.15 %
-Java              14 mins         ███████████░░░░░░░░░░░░░░   43.57 %
-Properties        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-Java Properties   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-YAML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+HTTP Request   6 mins          ███████████████████▓░░░░░   78.82 %
+Java           1 min           █████▒░░░░░░░░░░░░░░░░░░░   21.18 %
 ```
 
 <!--END_SECTION:waka-->
