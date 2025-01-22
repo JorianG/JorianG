@@ -72,8 +72,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTTP Request   6 mins          ███████████████████▓░░░░░   78.82 %
-Java           1 min           █████▒░░░░░░░░░░░░░░░░░░░   21.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
