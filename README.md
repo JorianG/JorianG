@@ -72,11 +72,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            6 hrs 23 mins   ████████████████████▒░░░░   80.86 %
-XML               41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
-HTML              22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-YAML              10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-Properties        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
